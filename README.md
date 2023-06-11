@@ -8,7 +8,7 @@ This repository is for the second teamwork internship project of this Bootcamp, 
 The following members are present in this team, arranged in alphabetical order:
 * [Mr. Behroozi, Mohammad Hoseyn](https://github.com/MHBehoozi)
 * [Ms. Charghadchi, Mahla](https://github.com/mahla-chr)
-* [Mr. Hosseini, Amirreza](https://github.com/AmirrezaHosseini/AmirrezaHosseini)
+* [Mr. Hosseini, Amir Reza](https://github.com/AmirrezaHosseini/AmirrezaHosseini)
 * [Mr. Mapar, Masoud](https://github.com/masoud533)
 * [Ms. Mousavi, Fateme (Team Lead)](https://github.com/fatememousavi97)
 * [Mr. Parsa, Ali](https://github.com/parsa009)
@@ -23,7 +23,7 @@ This team has completed the project under the mentoring of [Mr. Abdolkarimi, You
   </b><br><br>
   بوت کمپ تحلیل داده کوئرا به مدت 10 هفته از فروردین تا خرداد سال 1402 برگزار شده است. در این بوت کمپ ما مهارتهای فنی و مهارتهای نرم را یاد گرفتیم تا آماده کار کردن به عنوان تحلیلگر داده و توسعه دهنده هوش تجاری در بازار و صنعت باشیم.
   <br><br>
-  این ریپازیتوری برای دومین پروژه کارآموزی تیمی این بوت کمپ است که در مورد تحلیل داده و توسعه هوش تجاری برای یک مجموعه فروشگاه زنجیره ای بوده و شامل پروسه ETL و دریافت داده از پایگاه داده و ساخت انبار داده می باشد.همچنین در این پروژه پس از ساخت انبار داده، این تجارت از نظر آماری تحلیل می شود و برای پاسخ به برخی مسائل از مدل های ماشین لرنینگ استفاده می شود. عملیات پردازش داده ها با استفاده از PowerBI انجام می شود و در نهایت نتایج به صورت یک داشبورد برای کارفرما ارائه می شود.
+  این ریپازیتوری برای دومین پروژه کارآموزی تیمی این بوت کمپ است که در مورد تحلیل داده و توسعه هوش تجاری برای یک مجموعه فروشگاه زنجیره ای بوده و شامل پروسه ETL و دریافت داده از پایگاه داده و ساخت انبار داده می باشد. همچنین در این پروژه پس از ساخت انبار داده، این تجارت از نظر آماری تحلیل می شود و برای پاسخ به برخی مسائل از مدل های ماشین لرنینگ استفاده می شود. عملیات پردازش داده ها با استفاده از PowerBI انجام می شود و در نهایت نتایج به صورت یک داشبورد برای کارفرما و ذی‌نفعان ارائه می شود.
   <br><br>
   اعضای این تیم به شرح زیر می باشند (مرتب شده به ترتیب حروف الفبا):
   </p>
