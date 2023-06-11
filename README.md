@@ -3,7 +3,7 @@ The repository for the second internship project of Quera Data Analysis Bootcamp
 ---
 Qera Data Analysis Bootcamp has been held for 10 weeks from April to June 2023. in which we learned and practiced both technical and soft skills to become ready to work as data analysts and BI developers in the market and industry.
 
-This repository is for the second teamwork internship project of this Bootcamp, which is about data analysis and developing business intelligence for a Superstore business and includes the ETL process to pulling data from a database and designing a data warehouse and performing statistical analysis and running machine learning models on delivered data. Data processing is done using PowerBI and finally, the results are presented as a dashboard for the employer and stakeholders.
+This repository is for the second teamwork internship project of this Bootcamp, which is about data analysis and developing business intelligence for a Superstore business and includes the ETL process to pulling data from a database, designing a data warehouse, performing statistical analysis and running machine learning models on delivered data. Data processing is done using PowerBI and finally, the results are presented as a dashboard for the employer and stakeholders.
 
 The following members are present in this team, arranged in alphabetical order:
 * [Mr. Behroozi, Mohammad Hoseyn](https://github.com/MHBehoozi)
