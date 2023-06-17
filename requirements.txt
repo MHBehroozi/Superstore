@@ -1,0 +1,9 @@
+jupyter==1.0.0
+pandas==1.3.4
+numpy1.23.5
+matplotlib==3.6.2
+seaborn==0.12.2
+mysql-connector-python==8.0.33
+sqlalchemy==2.0.10
+scikit-learn==1.2.0
+xgboost==1.7.2
